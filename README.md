@@ -8,6 +8,5 @@
 2. Two
 3. Three
 
+[Cv page repository](https://eokvashnin.github.io/CV_page_Frontender-1.0-/)
 ![image](assets/f5_EyGWYKWM.jpg)
-
-[Cv page repository](https://github.com/EOKvashnin/CV_page_Frontender-1.0-)
